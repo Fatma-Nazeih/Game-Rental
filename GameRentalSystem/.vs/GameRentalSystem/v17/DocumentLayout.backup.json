@@ -1,0 +1,902 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\gamerentalsystem\\ui\\addeditgameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|solutionrelative:gamerentalsystem\\ui\\addeditgameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|c:\\users\\administrator\\source\\repos\\gamerentalsystem\\gamerentalsystem\\ui\\addeditgameform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|solutionrelative:gamerentalsystem\\ui\\addeditgameform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\gamerentalsystem\\ui\\adminmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|solutionrelative:gamerentalsystem\\ui\\adminmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|c:\\users\\administrator\\source\\repos\\gamerentalsystem\\gamerentalsystem\\ui\\adminmainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|solutionrelative:gamerentalsystem\\ui\\adminmainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\gamerentalsystem\\ui\\adminrequestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|solutionrelative:gamerentalsystem\\ui\\adminrequestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|c:\\users\\administrator\\source\\repos\\gamerentalsystem\\gamerentalsystem\\ui\\adminrequestform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|solutionrelative:gamerentalsystem\\ui\\adminrequestform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\gamerentalsystem\\ui\\clientmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|solutionrelative:gamerentalsystem\\ui\\clientmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|c:\\users\\administrator\\source\\repos\\gamerentalsystem\\gamerentalsystem\\ui\\clientmainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|solutionrelative:gamerentalsystem\\ui\\clientmainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\gamerentalsystem\\ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|solutionrelative:gamerentalsystem\\ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|c:\\users\\administrator\\source\\repos\\gamerentalsystem\\gamerentalsystem\\ui\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|solutionrelative:gamerentalsystem\\ui\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\gamerentalsystem\\ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|solutionrelative:gamerentalsystem\\ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\gamerentalsystem\\ui\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|solutionrelative:gamerentalsystem\\ui\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\gamerentalsystem\\ui\\reportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|solutionrelative:gamerentalsystem\\ui\\reportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\gamerentalsystem\\ui\\usermanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|solutionrelative:gamerentalsystem\\ui\\usermanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|c:\\users\\administrator\\source\\repos\\gamerentalsystem\\gamerentalsystem\\ui\\vendormainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|solutionrelative:gamerentalsystem\\ui\\vendormainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|c:\\users\\administrator\\source\\repos\\gamerentalsystem\\gamerentalsystem\\ui\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|solutionrelative:gamerentalsystem\\ui\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|c:\\users\\administrator\\source\\repos\\gamerentalsystem\\gamerentalsystem\\ui\\registerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|solutionrelative:gamerentalsystem\\ui\\registerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|c:\\users\\administrator\\source\\repos\\gamerentalsystem\\gamerentalsystem\\ui\\reportform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|solutionrelative:gamerentalsystem\\ui\\reportform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|c:\\users\\administrator\\source\\repos\\gamerentalsystem\\gamerentalsystem\\ui\\usermanagementform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|solutionrelative:gamerentalsystem\\ui\\usermanagementform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|c:\\users\\administrator\\source\\repos\\gamerentalsystem\\gamerentalsystem\\ui\\vendormainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|solutionrelative:gamerentalsystem\\ui\\vendormainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|c:\\users\\administrator\\source\\repos\\gamerentalsystem\\gamerentalsystem\\ui\\vendormainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|solutionrelative:gamerentalsystem\\ui\\vendormainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|c:\\users\\administrator\\source\\repos\\gamerentalsystem\\gamerentalsystem\\ui\\adminmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|solutionrelative:gamerentalsystem\\ui\\adminmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|c:\\users\\administrator\\source\\repos\\gamerentalsystem\\gamerentalsystem\\ui\\clientmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|solutionrelative:gamerentalsystem\\ui\\clientmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|c:\\users\\administrator\\source\\repos\\gamerentalsystem\\gamerentalsystem\\ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|solutionrelative:gamerentalsystem\\ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|c:\\users\\administrator\\source\\repos\\gamerentalsystem\\gamerentalsystem\\dal\\userdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|solutionrelative:gamerentalsystem\\dal\\userdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|c:\\users\\administrator\\source\\repos\\gamerentalsystem\\gamerentalsystem\\ui\\addeditgameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|solutionrelative:gamerentalsystem\\ui\\addeditgameform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|c:\\users\\administrator\\source\\repos\\gamerentalsystem\\gamerentalsystem\\models\\adminrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|solutionrelative:gamerentalsystem\\models\\adminrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|c:\\users\\administrator\\source\\repos\\gamerentalsystem\\gamerentalsystem\\models\\vendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|solutionrelative:gamerentalsystem\\models\\vendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|c:\\users\\administrator\\source\\repos\\gamerentalsystem\\gamerentalsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|solutionrelative:gamerentalsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|c:\\users\\administrator\\source\\repos\\gamerentalsystem\\gamerentalsystem\\models\\rental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|solutionrelative:gamerentalsystem\\models\\rental.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|c:\\users\\administrator\\source\\repos\\gamerentalsystem\\gamerentalsystem\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|solutionrelative:gamerentalsystem\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|c:\\users\\administrator\\source\\repos\\gamerentalsystem\\gamerentalsystem\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|solutionrelative:gamerentalsystem\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|c:\\users\\administrator\\source\\repos\\gamerentalsystem\\gamerentalsystem\\dal\\vendordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|solutionrelative:gamerentalsystem\\dal\\vendordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|c:\\users\\administrator\\source\\repos\\gamerentalsystem\\gamerentalsystem\\dal\\reportdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|solutionrelative:gamerentalsystem\\dal\\reportdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|c:\\users\\administrator\\source\\repos\\gamerentalsystem\\gamerentalsystem\\dal\\rentaldal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|solutionrelative:gamerentalsystem\\dal\\rentaldal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|c:\\users\\administrator\\source\\repos\\gamerentalsystem\\gamerentalsystem\\dal\\gamedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|solutionrelative:gamerentalsystem\\dal\\gamedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|c:\\users\\administrator\\source\\repos\\gamerentalsystem\\gamerentalsystem\\dal\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|solutionrelative:gamerentalsystem\\dal\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|c:\\users\\administrator\\source\\repos\\gamerentalsystem\\gamerentalsystem\\dal\\categorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|solutionrelative:gamerentalsystem\\dal\\categorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|c:\\users\\administrator\\source\\repos\\gamerentalsystem\\gamerentalsystem\\dal\\adminrequestdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|solutionrelative:gamerentalsystem\\dal\\adminrequestdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|c:\\users\\administrator\\source\\repos\\gamerentalsystem\\gamerentalsystem\\bll\\reportbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|solutionrelative:gamerentalsystem\\bll\\reportbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|c:\\users\\administrator\\source\\repos\\gamerentalsystem\\gamerentalsystem\\bll\\rentalbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|solutionrelative:gamerentalsystem\\bll\\rentalbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|c:\\users\\administrator\\source\\repos\\gamerentalsystem\\gamerentalsystem\\bll\\gamebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|solutionrelative:gamerentalsystem\\bll\\gamebll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|c:\\users\\administrator\\source\\repos\\gamerentalsystem\\gamerentalsystem\\bll\\authbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|solutionrelative:gamerentalsystem\\bll\\authbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|c:\\users\\administrator\\source\\repos\\gamerentalsystem\\gamerentalsystem\\bll\\adminbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|solutionrelative:gamerentalsystem\\bll\\adminbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|c:\\users\\administrator\\source\\repos\\gamerentalsystem\\gamerentalsystem\\ui\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|solutionrelative:gamerentalsystem\\ui\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|c:\\users\\administrator\\source\\repos\\gamerentalsystem\\gamerentalsystem\\ui\\registerform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|solutionrelative:gamerentalsystem\\ui\\registerform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|c:\\users\\administrator\\source\\repos\\gamerentalsystem\\gamerentalsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|solutionrelative:gamerentalsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|c:\\users\\administrator\\source\\repos\\gamerentalsystem\\gamerentalsystem\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|solutionrelative:gamerentalsystem\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|c:\\users\\administrator\\source\\repos\\gamerentalsystem\\gamerentalsystem\\ui\\usermanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|solutionrelative:gamerentalsystem\\ui\\usermanagementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|c:\\users\\administrator\\source\\repos\\gamerentalsystem\\gamerentalsystem\\ui\\reportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|solutionrelative:gamerentalsystem\\ui\\reportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|c:\\users\\administrator\\source\\repos\\gamerentalsystem\\gamerentalsystem\\ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|solutionrelative:gamerentalsystem\\ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|c:\\users\\administrator\\source\\repos\\gamerentalsystem\\gamerentalsystem\\ui\\adminrequestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|solutionrelative:gamerentalsystem\\ui\\adminrequestform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|c:\\users\\administrator\\source\\repos\\gamerentalsystem\\gamerentalsystem\\gamerentalsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B082B540-9717-43D4-B339-EDCE8E603424}|GameRentalSystem\\GameRentalSystem.csproj|solutionrelative:gamerentalsystem\\gamerentalsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminRequestForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\UI\\AdminRequestForm.Designer.cs",
+              "RelativeDocumentMoniker": "GameRentalSystem\\UI\\AdminRequestForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\UI\\AdminRequestForm.Designer.cs",
+              "RelativeToolTip": "GameRentalSystem\\UI\\AdminRequestForm.Designer.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAvwB0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T16:43:24.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminRequestForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\UI\\AdminRequestForm.cs",
+              "RelativeDocumentMoniker": "GameRentalSystem\\UI\\AdminRequestForm.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\UI\\AdminRequestForm.cs [Design]",
+              "RelativeToolTip": "GameRentalSystem\\UI\\AdminRequestForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T18:29:33.952Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminMainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\UI\\AdminMainForm.Designer.cs",
+              "RelativeDocumentMoniker": "GameRentalSystem\\UI\\AdminMainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\UI\\AdminMainForm.Designer.cs",
+              "RelativeToolTip": "GameRentalSystem\\UI\\AdminMainForm.Designer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAASwBMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T16:42:34.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminMainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\UI\\AdminMainForm.cs",
+              "RelativeDocumentMoniker": "GameRentalSystem\\UI\\AdminMainForm.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\UI\\AdminMainForm.cs [Design]",
+              "RelativeToolTip": "GameRentalSystem\\UI\\AdminMainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T18:29:28.607Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddEditGameForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\UI\\AddEditGameForm.Designer.cs",
+              "RelativeDocumentMoniker": "GameRentalSystem\\UI\\AddEditGameForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\UI\\AddEditGameForm.Designer.cs",
+              "RelativeToolTip": "GameRentalSystem\\UI\\AddEditGameForm.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAApwCgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T16:42:33.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddEditGameForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\UI\\AddEditGameForm.cs",
+              "RelativeDocumentMoniker": "GameRentalSystem\\UI\\AddEditGameForm.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\UI\\AddEditGameForm.cs [Design]",
+              "RelativeToolTip": "GameRentalSystem\\UI\\AddEditGameForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T18:29:22.81Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClientMainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\UI\\ClientMainForm.cs",
+              "RelativeDocumentMoniker": "GameRentalSystem\\UI\\ClientMainForm.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\UI\\ClientMainForm.cs [Design]",
+              "RelativeToolTip": "GameRentalSystem\\UI\\ClientMainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T16:45:11.455Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClientMainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\UI\\ClientMainForm.Designer.cs",
+              "RelativeDocumentMoniker": "GameRentalSystem\\UI\\ClientMainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\UI\\ClientMainForm.Designer.cs",
+              "RelativeToolTip": "GameRentalSystem\\UI\\ClientMainForm.Designer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIA8wBMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T16:45:15.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\UI\\LoginForm.cs",
+              "RelativeDocumentMoniker": "GameRentalSystem\\UI\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\UI\\LoginForm.cs [Design]",
+              "RelativeToolTip": "GameRentalSystem\\UI\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T18:48:47.195Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\UI\\MainForm.cs",
+              "RelativeDocumentMoniker": "GameRentalSystem\\UI\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\UI\\MainForm.cs [Design]",
+              "RelativeToolTip": "GameRentalSystem\\UI\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T17:04:36.771Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReportForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\UI\\ReportForm.cs",
+              "RelativeDocumentMoniker": "GameRentalSystem\\UI\\ReportForm.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\UI\\ReportForm.cs [Design]",
+              "RelativeToolTip": "GameRentalSystem\\UI\\ReportForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T17:08:19.815Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserManagementForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\UI\\UserManagementForm.cs",
+              "RelativeDocumentMoniker": "GameRentalSystem\\UI\\UserManagementForm.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\UI\\UserManagementForm.cs [Design]",
+              "RelativeToolTip": "GameRentalSystem\\UI\\UserManagementForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T17:23:35.25Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "VendorMainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\UI\\VendorMainForm.cs",
+              "RelativeDocumentMoniker": "GameRentalSystem\\UI\\VendorMainForm.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\UI\\VendorMainForm.cs [Design]",
+              "RelativeToolTip": "GameRentalSystem\\UI\\VendorMainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T11:37:12.804Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\UI\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "GameRentalSystem\\UI\\LoginForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\UI\\LoginForm.Designer.cs",
+              "RelativeToolTip": "GameRentalSystem\\UI\\LoginForm.Designer.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAowGAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T16:58:42.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegisterForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\UI\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "GameRentalSystem\\UI\\RegisterForm.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\UI\\RegisterForm.cs [Design]",
+              "RelativeToolTip": "GameRentalSystem\\UI\\RegisterForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T16:26:16.999Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\UI\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "GameRentalSystem\\UI\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\UI\\MainForm.Designer.cs",
+              "RelativeToolTip": "GameRentalSystem\\UI\\MainForm.Designer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T17:04:54.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RegisterForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\UI\\RegisterForm.Designer.cs",
+              "RelativeDocumentMoniker": "GameRentalSystem\\UI\\RegisterForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\UI\\RegisterForm.Designer.cs",
+              "RelativeToolTip": "GameRentalSystem\\UI\\RegisterForm.Designer.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T17:05:55.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ReportForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\UI\\ReportForm.Designer.cs",
+              "RelativeDocumentMoniker": "GameRentalSystem\\UI\\ReportForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\UI\\ReportForm.Designer.cs",
+              "RelativeToolTip": "GameRentalSystem\\UI\\ReportForm.Designer.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAASwBsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T17:08:20.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserManagementForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\UI\\UserManagementForm.Designer.cs",
+              "RelativeDocumentMoniker": "GameRentalSystem\\UI\\UserManagementForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\UI\\UserManagementForm.Designer.cs",
+              "RelativeToolTip": "GameRentalSystem\\UI\\UserManagementForm.Designer.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAASwBQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T17:23:56.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "VendorMainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\UI\\VendorMainForm.Designer.cs",
+              "RelativeDocumentMoniker": "GameRentalSystem\\UI\\VendorMainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\UI\\VendorMainForm.Designer.cs",
+              "RelativeToolTip": "GameRentalSystem\\UI\\VendorMainForm.Designer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAASwBMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T11:27:32.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "VendorMainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\UI\\VendorMainForm.cs",
+              "RelativeDocumentMoniker": "GameRentalSystem\\UI\\VendorMainForm.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\UI\\VendorMainForm.cs",
+              "RelativeToolTip": "GameRentalSystem\\UI\\VendorMainForm.cs",
+              "ViewState": "AgIAAMkAAAAAAAAAAAAQwN8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T11:27:42.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AdminMainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\UI\\AdminMainForm.cs",
+              "RelativeDocumentMoniker": "GameRentalSystem\\UI\\AdminMainForm.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\UI\\AdminMainForm.cs",
+              "RelativeToolTip": "GameRentalSystem\\UI\\AdminMainForm.cs",
+              "ViewState": "AgIAAMYCAAAAAAAAAAAUwNsCAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T15:25:45.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ClientMainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\UI\\ClientMainForm.cs",
+              "RelativeDocumentMoniker": "GameRentalSystem\\UI\\ClientMainForm.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\UI\\ClientMainForm.cs",
+              "RelativeToolTip": "GameRentalSystem\\UI\\ClientMainForm.cs",
+              "ViewState": "AgIAAPMAAAAAAAAAAAAiwAoBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T16:55:18.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\UI\\LoginForm.cs",
+              "RelativeDocumentMoniker": "GameRentalSystem\\UI\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\UI\\LoginForm.cs",
+              "RelativeToolTip": "GameRentalSystem\\UI\\LoginForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T17:01:07.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\DAL\\UserDAL.cs",
+              "RelativeDocumentMoniker": "GameRentalSystem\\DAL\\UserDAL.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\DAL\\UserDAL.cs",
+              "RelativeToolTip": "GameRentalSystem\\DAL\\UserDAL.cs",
+              "ViewState": "AgIAALcAAAAAAAAAAAAAALsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T15:19:36.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AddEditGameForm.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\UI\\AddEditGameForm.cs",
+              "RelativeDocumentMoniker": "GameRentalSystem\\UI\\AddEditGameForm.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\UI\\AddEditGameForm.cs",
+              "RelativeToolTip": "GameRentalSystem\\UI\\AddEditGameForm.cs",
+              "ViewState": "AgIAAGEBAAAAAAAAAAAAAHgBAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T15:26:39.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Vendor.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\Models\\Vendor.cs",
+              "RelativeDocumentMoniker": "GameRentalSystem\\Models\\Vendor.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\Models\\Vendor.cs",
+              "RelativeToolTip": "GameRentalSystem\\Models\\Vendor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T15:19:35.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Rental.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\Models\\Rental.cs",
+              "RelativeDocumentMoniker": "GameRentalSystem\\Models\\Rental.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\Models\\Rental.cs",
+              "RelativeToolTip": "GameRentalSystem\\Models\\Rental.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T15:19:34.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\Models\\Game.cs",
+              "RelativeDocumentMoniker": "GameRentalSystem\\Models\\Game.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\Models\\Game.cs",
+              "RelativeToolTip": "GameRentalSystem\\Models\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T15:19:34.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AdminRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\Models\\AdminRequest.cs",
+              "RelativeDocumentMoniker": "GameRentalSystem\\Models\\AdminRequest.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\Models\\AdminRequest.cs",
+              "RelativeToolTip": "GameRentalSystem\\Models\\AdminRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T15:19:34.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\Models\\User.cs",
+              "RelativeDocumentMoniker": "GameRentalSystem\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\Models\\User.cs",
+              "RelativeToolTip": "GameRentalSystem\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T10:58:04.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "GameRentalSystem\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\Models\\Category.cs",
+              "RelativeToolTip": "GameRentalSystem\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T15:19:35.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "VendorDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\DAL\\VendorDAL.cs",
+              "RelativeDocumentMoniker": "GameRentalSystem\\DAL\\VendorDAL.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\DAL\\VendorDAL.cs",
+              "RelativeToolTip": "GameRentalSystem\\DAL\\VendorDAL.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T15:19:36.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ReportDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\DAL\\ReportDAL.cs",
+              "RelativeDocumentMoniker": "GameRentalSystem\\DAL\\ReportDAL.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\DAL\\ReportDAL.cs",
+              "RelativeToolTip": "GameRentalSystem\\DAL\\ReportDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T15:19:35.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "RentalDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\DAL\\RentalDAL.cs",
+              "RelativeDocumentMoniker": "GameRentalSystem\\DAL\\RentalDAL.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\DAL\\RentalDAL.cs",
+              "RelativeToolTip": "GameRentalSystem\\DAL\\RentalDAL.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowG8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T15:19:35.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "GameDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\DAL\\GameDAL.cs",
+              "RelativeDocumentMoniker": "GameRentalSystem\\DAL\\GameDAL.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\DAL\\GameDAL.cs",
+              "RelativeToolTip": "GameRentalSystem\\DAL\\GameDAL.cs",
+              "ViewState": "AgIAABQBAAAAAAAAAAAkwCEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T15:19:36.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\DAL\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "GameRentalSystem\\DAL\\DatabaseHelper.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\DAL\\DatabaseHelper.cs",
+              "RelativeToolTip": "GameRentalSystem\\DAL\\DatabaseHelper.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T15:19:36.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CategoryDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\DAL\\CategoryDAL.cs",
+              "RelativeDocumentMoniker": "GameRentalSystem\\DAL\\CategoryDAL.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\DAL\\CategoryDAL.cs",
+              "RelativeToolTip": "GameRentalSystem\\DAL\\CategoryDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T15:19:36.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AdminRequestDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\DAL\\AdminRequestDAL.cs",
+              "RelativeDocumentMoniker": "GameRentalSystem\\DAL\\AdminRequestDAL.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\DAL\\AdminRequestDAL.cs",
+              "RelativeToolTip": "GameRentalSystem\\DAL\\AdminRequestDAL.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAmwIsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T15:19:35.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ReportBLL.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\BLL\\ReportBLL.cs",
+              "RelativeDocumentMoniker": "GameRentalSystem\\BLL\\ReportBLL.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\BLL\\ReportBLL.cs",
+              "RelativeToolTip": "GameRentalSystem\\BLL\\ReportBLL.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwFwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T15:20:07.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "RentalBLL.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\BLL\\RentalBLL.cs",
+              "RelativeDocumentMoniker": "GameRentalSystem\\BLL\\RentalBLL.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\BLL\\RentalBLL.cs",
+              "RelativeToolTip": "GameRentalSystem\\BLL\\RentalBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T15:20:03.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "GameBLL.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\BLL\\GameBLL.cs",
+              "RelativeDocumentMoniker": "GameRentalSystem\\BLL\\GameBLL.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\BLL\\GameBLL.cs",
+              "RelativeToolTip": "GameRentalSystem\\BLL\\GameBLL.cs",
+              "ViewState": "AgIAAMMAAAAAAAAAAAAmwO8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T15:20:02.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "AuthBLL.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\BLL\\AuthBLL.cs",
+              "RelativeDocumentMoniker": "GameRentalSystem\\BLL\\AuthBLL.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\BLL\\AuthBLL.cs",
+              "RelativeToolTip": "GameRentalSystem\\BLL\\AuthBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T15:20:00.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "AdminBLL.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\BLL\\AdminBLL.cs",
+              "RelativeDocumentMoniker": "GameRentalSystem\\BLL\\AdminBLL.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\BLL\\AdminBLL.cs",
+              "RelativeToolTip": "GameRentalSystem\\BLL\\AdminBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T15:19:57.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "RegisterForm.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\UI\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "GameRentalSystem\\UI\\RegisterForm.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\UI\\RegisterForm.cs",
+              "RelativeToolTip": "GameRentalSystem\\UI\\RegisterForm.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAcwJ8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T17:06:47.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "RegisterForm.resx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\UI\\RegisterForm.resx",
+              "RelativeDocumentMoniker": "GameRentalSystem\\UI\\RegisterForm.resx",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\UI\\RegisterForm.resx",
+              "RelativeToolTip": "GameRentalSystem\\UI\\RegisterForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-13T16:39:13.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\Program.cs",
+              "RelativeDocumentMoniker": "GameRentalSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\Program.cs",
+              "RelativeToolTip": "GameRentalSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T15:28:16.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\App.config",
+              "RelativeDocumentMoniker": "GameRentalSystem\\App.config",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\App.config",
+              "RelativeToolTip": "GameRentalSystem\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-10T15:19:36.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "UserManagementForm.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\UI\\UserManagementForm.cs",
+              "RelativeDocumentMoniker": "GameRentalSystem\\UI\\UserManagementForm.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\UI\\UserManagementForm.cs",
+              "RelativeToolTip": "GameRentalSystem\\UI\\UserManagementForm.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAwwLQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T17:23:40.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ReportForm.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\UI\\ReportForm.cs",
+              "RelativeDocumentMoniker": "GameRentalSystem\\UI\\ReportForm.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\UI\\ReportForm.cs",
+              "RelativeToolTip": "GameRentalSystem\\UI\\ReportForm.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAwwG8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T17:14:52.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\UI\\MainForm.cs",
+              "RelativeDocumentMoniker": "GameRentalSystem\\UI\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\UI\\MainForm.cs",
+              "RelativeToolTip": "GameRentalSystem\\UI\\MainForm.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAwwFQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T17:04:41.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "AdminRequestForm.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\UI\\AdminRequestForm.cs",
+              "RelativeDocumentMoniker": "GameRentalSystem\\UI\\AdminRequestForm.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\UI\\AdminRequestForm.cs",
+              "RelativeToolTip": "GameRentalSystem\\UI\\AdminRequestForm.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAqwKQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T15:27:10.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "GameRentalSystem.csproj",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\GameRentalSystem.csproj",
+              "RelativeDocumentMoniker": "GameRentalSystem\\GameRentalSystem.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\GameRentalSystem\\GameRentalSystem\\GameRentalSystem.csproj",
+              "RelativeToolTip": "GameRentalSystem\\GameRentalSystem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-10T15:19:34.234Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
